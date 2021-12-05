@@ -32319,7 +32319,7 @@ a.u-button-style.u-button-style.active > .u-text-active-palette-2-light-1[class*
 :not(.level-2) > .u-nav > .u-nav-item > a.u-nav-link.u-text-hover-palette-2-light-1:hover,
 :not(.level-2) > .u-nav > .u-nav-item > a.u-nav-link.u-nav-link.u-text-active-palette-2-light-1.active,
 .u-popupmenu-items.u-text-hover-palette-2-light-1 .u-nav-link:hover,
-.u-popupmenu-items.u-popupmenu-items.u-text-active-palette-2-light-1 .u-nav-link.active {
+.u-popupmenu-items.u-popupmenu-items .u-nav-link.active {
   color: #e68387 !important;
 }
 .u-text-palette-2-light-1 .u-svg-link,
